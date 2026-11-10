@@ -1,0 +1,4 @@
+# Tracker data (client names, sites, contacts) stays local
+project-tracker-data.json
+project-tracker-backup-*.json
+status-report-*.md
